@@ -12,8 +12,6 @@ In this project, we're predicting future house prices.  We're using data from th
 * Run diagnostics to figure out how we can improve
 
 
-
-
 File overview:
 
 * `House_Price_Prediction.ipynb` - a Jupyter notebook that contains all of the code.
